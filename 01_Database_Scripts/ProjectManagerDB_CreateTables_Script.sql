@@ -20,7 +20,7 @@ PRIMARY KEY CLUSTERED
 GO
 
 
-USE [ProjectManagerDB]
+USE [ProjectManagerDB]  
 GO
 
 /****** Object:  Table [dbo].[Project]    Script Date: 7/05/2019 5:23:16 PM******/
@@ -74,7 +74,7 @@ GO
 ALTER TABLE [dbo].[Task] ADD  DEFAULT ((0)) FOR [Status]
 GO
 
-USE  [ProjectManagerDB]
+USE  [ProjectManagerDB]      
 GO
 
 /****** Object:  Table [dbo].[User]    Script Date: 7/05/2019 5:23:16 PM ******/
