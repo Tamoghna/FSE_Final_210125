@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageSession xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.7.922.0">
+  <Summary numSequencePoints="0" visitedSequencePoints="0" numBranchPoints="0" visitedBranchPoints="0" sequenceCoverage="0" branchCoverage="0" maxCyclomaticComplexity="0" minCyclomaticComplexity="0" maxCrapScore="0" minCrapScore="0" visitedClasses="0" numClasses="0" visitedMethods="0" numMethods="0" />
+  <Modules>
+    <Module skippedDueTo="Filter" hash="E7-34-2C-0A-22-80-55-87-F2-07-1F-70-9F-DD-81-24-6A-74-31-69">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2019-06-12T01:27:48.6663352Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="C3-AA-1C-1C-8E-82-1A-33-B0-D2-15-D7-67-2F-0B-23-E3-D3-35-BD">
+      <ModulePath>C:\Users\Tamoghna_Choudhury_210125_FSEFinalAssessment\FSE_Final_210125\03_Middle_Tier_Layer\ProjectManager\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit3-console.exe</ModulePath>
+      <ModuleTime>2019-05-15T04:30:34Z</ModuleTime>
+      <ModuleName>nunit3-console</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="40-04-99-9D-2D-37-FE-28-9E-69-AC-F2-72-DA-4F-E7-75-E4-0B-1A">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2019-06-12T01:27:48.7753132Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="56-19-46-EE-B2-F2-BE-59-B4-C3-2F-4A-6E-93-59-8A-52-CC-E1-25">
+      <ModulePath>C:\Users\Tamoghna_Choudhury_210125_FSEFinalAssessment\FSE_Final_210125\03_Middle_Tier_Layer\ProjectManager\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit.engine.api.dll</ModulePath>
+      <ModuleTime>2019-05-15T04:30:34Z</ModuleTime>
+      <ModuleName>nunit.engine.api</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="E7-34-2C-0A-22-80-55-87-F2-07-1F-70-9F-DD-81-24-6A-74-31-69">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll</ModulePath>
+      <ModuleTime>2019-06-12T01:27:48.6663352Z</ModuleTime>
+      <ModuleName>mscorlib</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="C3-AA-1C-1C-8E-82-1A-33-B0-D2-15-D7-67-2F-0B-23-E3-D3-35-BD">
+      <ModulePath>C:\Users\Tamoghna_Choudhury_210125_FSEFinalAssessment\FSE_Final_210125\03_Middle_Tier_Layer\ProjectManager\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit3-console.exe</ModulePath>
+      <ModuleTime>2019-05-15T04:30:34Z</ModuleTime>
+      <ModuleName>nunit3-console</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="40-04-99-9D-2D-37-FE-28-9E-69-AC-F2-72-DA-4F-E7-75-E4-0B-1A">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll</ModulePath>
+      <ModuleTime>2019-06-12T01:27:48.7753132Z</ModuleTime>
+      <ModuleName>System</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F3-B1-83-1B-09-4C-8B-4B-4D-F1-AE-22-3B-BF-1C-83-85-41-B0-4C">
+      <ModulePath>C:\Users\Tamoghna_Choudhury_210125_FSEFinalAssessment\FSE_Final_210125\03_Middle_Tier_Layer\ProjectManager\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit.engine.dll</ModulePath>
+      <ModuleTime>2019-05-15T04:30:34Z</ModuleTime>
+      <ModuleName>nunit.engine</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="F3-B1-83-1B-09-4C-8B-4B-4D-F1-AE-22-3B-BF-1C-83-85-41-B0-4C">
+      <ModulePath>C:\Users\Tamoghna_Choudhury_210125_FSEFinalAssessment\FSE_Final_210125\03_Middle_Tier_Layer\ProjectManager\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit.engine.dll</ModulePath>
+      <ModuleTime>2019-05-15T04:30:34Z</ModuleTime>
+      <ModuleName>nunit.engine</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="BA-94-4B-50-1E-D5-31-87-F3-25-6E-BA-07-71-E4-9F-22-0D-B8-34">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:51.77351Z</ModuleTime>
+      <ModuleName>System.Xml</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="56-19-46-EE-B2-F2-BE-59-B4-C3-2F-4A-6E-93-59-8A-52-CC-E1-25">
+      <ModulePath>C:\Users\Tamoghna_Choudhury_210125_FSEFinalAssessment\FSE_Final_210125\03_Middle_Tier_Layer\ProjectManager\packages\NUnit.ConsoleRunner.3.10.0\tools\nunit.engine.api.dll</ModulePath>
+      <ModuleTime>2019-05-15T04:30:34Z</ModuleTime>
+      <ModuleName>nunit.engine.api</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="B9-58-63-DA-6A-A9-AC-B7-D9-1F-5A-C7-12-16-22-6C-BD-1A-72-1C">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_64\System.Web\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Web.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:51.8203891Z</ModuleTime>
+      <ModuleName>System.Web</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="MissingPdb" hash="8A-2E-8F-D6-9D-39-02-4A-2F-30-FC-06-42-F7-0F-A8-32-69-07-72">
+      <ModulePath>C:\Users\Tamoghna_Choudhury_210125_FSEFinalAssessment\FSE_Final_210125\03_Middle_Tier_Layer\ProjectManager\packages\NUnit.ConsoleRunner.3.10.0\tools\Mono.Cecil.dll</ModulePath>
+      <ModuleTime>2019-05-15T04:30:34Z</ModuleTime>
+      <ModuleName>Mono.Cecil</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="A7-7B-4E-D4-75-E8-13-EA-81-E3-7A-CE-3B-E3-5B-7B-B9-B9-D8-B3">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Runtime.Remoting\v4.0_4.0.0.0__b77a5c561934e089\System.Runtime.Remoting.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:46.6637279Z</ModuleTime>
+      <ModuleName>System.Runtime.Remoting</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="DF-C9-61-37-67-FC-86-B5-19-6B-51-39-78-82-42-F2-94-44-FD-2F">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:46.1168105Z</ModuleTime>
+      <ModuleName>System.Configuration</ModuleName>
+      <Classes />
+    </Module>
+    <Module skippedDueTo="Filter" hash="0E-5C-62-8E-31-49-1F-50-59-ED-97-1E-50-2B-28-39-E7-73-09-BD">
+      <ModulePath>C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll</ModulePath>
+      <ModuleTime>2019-03-19T04:46:43.2103257Z</ModuleTime>
+      <ModuleName>System.Core</ModuleName>
+      <Classes />
+    </Module>
+  </Modules>
+</CoverageSession>
